@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Users\S\Desktop\project\NumKeyBoard\APICloudSDK\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="F:\Users\S\Desktop\project\NumKeyBoard\APICloudSDK\build\intermediates\pre-dexed\debug\android-support-v4-d496de558cc0f48724bc606789f07e4a72ae1b72.jar" />
+    </item>
+    <item
+        jar="F:\Users\S\Desktop\project\NumKeyBoard\APICloudSDK\libs\apiEngine v1.1.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1cb373a8dfbb9b235569e165e060302f7b44ab01">
+        <dex dex="F:\Users\S\Desktop\project\NumKeyBoard\APICloudSDK\build\intermediates\pre-dexed\debug\apiEngine v1.1.0-6f8221da679074872c9ffba78e1e4042d7571efe.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,41 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0,user-scalable=0">
+    <title>APICloud</title>
+    <link rel="stylesheet" type="text/css" href="../css/base.css" />
+    <link rel="stylesheet" type="text/css" href="../css/common.css" />
+    <script type="text/javascript">
+
+		var uzmoduledemo = null;
+			    	
+	   apiready = function(){
+	    	uzmoduledemo = api.require('moduleDemo');
+	    }
+	    
+		function addView(){
+		var param = {title:"南充市商业银行"};
+	        uzmoduledemo.addView(param);
+	
+		}
+		function removeView(){
+		
+	        uzmoduledemo.removeView();
+		}
+
+		
+    
+	</script>
+</head>
+<body>
+              	
+            	<input type="button" onclick="addView()" value="啊舒服撒打发" id="result"/>
+            	<input type="button" onclick="removeView()" value="从屏幕移除" /><br><br>
+  
+</body>
+	
+      
+
+
+</html>

@@ -1,0 +1,14 @@
+
+{
+	modules:[
+		{
+		    name:'moduleDemo',
+		    class:'com.apicloud.numkeyboardmoudle.NumKeyBoard'
+		},
+		{
+		    name:'listener',
+		    class:'com.apicloud.eventdemo.EasDelegate'
+		}
+	]
+}
+		

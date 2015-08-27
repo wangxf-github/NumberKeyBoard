@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/Users/S/Desktop/project/NumKeyBoard/APICloudSDK/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="key_height">50.0sp</dimen>
+    <!-- From: file:/F:/Users/S/Desktop/project/NumKeyBoard/APICloudSDK/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">APICloudSDKDemo</string>
+    <string name="back">返回</string>
+    <string name="browser_dialog_error">错误提示</string>
+    <string name="browser_exitdialog_app_text">确定要退出程序吗？</string>
+    <string name="browser_exitdialog_msg">退出提示</string>
+    <string name="browser_init_error">程序不完整</string>
+    <string name="cancel">取消</string>
+    <string name="complete">完成</string>
+    <string name="confirm">确定</string>
+    <string name="exit">退出</string>
+    <string name="prompt">提示</string>
+    <!-- From: file:/F:/Users/S/Desktop/project/NumKeyBoard/APICloudSDK/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="ActionSheet" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:scrollbarThumbHorizontal">@drawable/uz_thumb_hor</item>
+        <item name="android:scrollbarThumbVertical">@drawable/uz_thumb_ver</item>
+    </style>
+</resources>

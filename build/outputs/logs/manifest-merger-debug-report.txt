@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:7:42
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:7:15
+supports-screens
+ADDED from AndroidManifest.xml:9:5
+	android:resizeable
+		ADDED from AndroidManifest.xml:13:9
+	android:largeScreens
+		ADDED from AndroidManifest.xml:11:9
+	android:anyDensity
+		ADDED from AndroidManifest.xml:10:9
+	android:normalScreens
+		ADDED from AndroidManifest.xml:12:9
+	android:xlargeScreens
+		ADDED from AndroidManifest.xml:15:9
+	android:smallScreens
+		ADDED from AndroidManifest.xml:14:9
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:18:5
+	android:name
+		ADDED from AndroidManifest.xml:18:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:20:5
+	android:name
+		ADDED from AndroidManifest.xml:20:22
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from AndroidManifest.xml:22:5
+	android:name
+		ADDED from AndroidManifest.xml:22:22
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from AndroidManifest.xml:24:5
+	android:name
+		ADDED from AndroidManifest.xml:24:22
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from AndroidManifest.xml:25:5
+	android:name
+		ADDED from AndroidManifest.xml:25:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:27:5
+	android:name
+		ADDED from AndroidManifest.xml:27:22
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from AndroidManifest.xml:29:5
+	android:name
+		ADDED from AndroidManifest.xml:29:22
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from AndroidManifest.xml:31:5
+	android:name
+		ADDED from AndroidManifest.xml:31:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:33:5
+	android:name
+		ADDED from AndroidManifest.xml:33:22
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:35:5
+	android:name
+		ADDED from AndroidManifest.xml:35:22
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:37:5
+	android:name
+		ADDED from AndroidManifest.xml:37:22
+uses-permission#android.permission.CALL_PHONE
+ADDED from AndroidManifest.xml:39:5
+	android:name
+		ADDED from AndroidManifest.xml:39:22
+uses-permission#android.permission.SEND_SMS
+ADDED from AndroidManifest.xml:41:5
+	android:name
+		ADDED from AndroidManifest.xml:41:22
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:43:5
+	android:name
+		ADDED from AndroidManifest.xml:43:22
+uses-permission#android.permission.READ_CONTACTS
+ADDED from AndroidManifest.xml:45:5
+	android:name
+		ADDED from AndroidManifest.xml:45:22
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from AndroidManifest.xml:47:5
+	android:name
+		ADDED from AndroidManifest.xml:47:22
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from AndroidManifest.xml:49:5
+	android:name
+		ADDED from AndroidManifest.xml:49:22
+uses-permission#android.permission.FLASHLIGHT
+ADDED from AndroidManifest.xml:51:5
+	android:name
+		ADDED from AndroidManifest.xml:51:22
+uses-permission#android.permission.READ_LOGS
+ADDED from AndroidManifest.xml:53:5
+	android:name
+		ADDED from AndroidManifest.xml:53:22
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:55:5
+	android:name
+		ADDED from AndroidManifest.xml:55:22
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from AndroidManifest.xml:57:5
+	android:name
+		ADDED from AndroidManifest.xml:57:22
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:59:5
+	android:name
+		ADDED from AndroidManifest.xml:59:22
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from AndroidManifest.xml:61:5
+	android:name
+		ADDED from AndroidManifest.xml:61:22
+uses-feature#android.hardware.camera
+ADDED from AndroidManifest.xml:63:5
+	android:name
+		ADDED from AndroidManifest.xml:63:19
+uses-feature#android.hardware.camera.autofocus
+ADDED from AndroidManifest.xml:64:5
+	android:required
+		ADDED from AndroidManifest.xml:64:68
+	android:name
+		ADDED from AndroidManifest.xml:64:19
+application
+ADDED from AndroidManifest.xml:68:5
+	android:label
+		ADDED from AndroidManifest.xml:71:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:69:9
+	android:icon
+		ADDED from AndroidManifest.xml:70:9
+	android:theme
+		ADDED from AndroidManifest.xml:72:3
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:73:9
+	android:name
+		ADDED from AndroidManifest.xml:68:18
+meta-data#uz_version
+ADDED from AndroidManifest.xml:74:9
+	android:name
+		ADDED from AndroidManifest.xml:74:20
+	android:value
+		ADDED from AndroidManifest.xml:74:46
+activity#com.uzmap.pkg.EntranceActivity
+ADDED from AndroidManifest.xml:75:9
+	android:label
+		ADDED from AndroidManifest.xml:77:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:80:10
+	android:theme
+		ADDED from AndroidManifest.xml:78:13
+	android:name
+		ADDED from AndroidManifest.xml:76:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:81:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:82:17
+	android:name
+		ADDED from AndroidManifest.xml:82:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:83:17
+	android:name
+		ADDED from AndroidManifest.xml:83:27
